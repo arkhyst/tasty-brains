@@ -16,9 +16,9 @@ It **does not** represent a commercial product, nor an actively maintained title
 ---
 
 ## Overview
-*Tasty Brains* is a **spooky cooking-survival game prototype** developed under strict **Game Jam constraints**. Players must prepare grotesque dishes under pressure, managing limited resources, time, and increasingly absurd demands.
+*Tasty Brains* is a **spooky cooking-survival game prototype** developed under strict **Game Jam constraints**. Players must prepare grotesque dishes under pressure, managing limited resources, time, and increasingly absurd demands. The project was conceived, designed, and implemented in a very short timeframe, prioritizing **core mechanics, tone, and experimentation** over polish or long-term scalability.
 
-The project was conceived, designed, and implemented in a very short timeframe, prioritizing **core mechanics, tone, and experimentation** over polish or long-term scalability.
+The development lasted for **3 days**, and the team was composed by **2 people**.
 
 ---
 
